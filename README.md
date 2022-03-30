@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamoussa00225" alt="vamoussa00225" /></a> </p>
 
-- 🔭 I’m currently working on **42 Cursus (Fractol Project)**
+- 🔭 I’m currently working on **42 Cursus (Push-Swap Project)**
 
 - 🌱 I’m currently learning **C langage, React, NodeJS, MongoDB, ExpressJS**
 

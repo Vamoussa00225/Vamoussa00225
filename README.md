@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vamoussa KANATE</h1>
-<h3 align="center">Student at 1337 (42 Network) and a passionate frontend developer and Cybersecurity</h3>
+<h3 align="center">Student at 1337 (42 Network) and a frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamoussa00225&label=Profile%20views&color=0e75b6&style=flat" alt="vamoussa00225" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamoussa00225" alt="vamoussa00225" /></a> </p>
 
-- 🔭 I’m currently working on **42 Cursus (MiniShell Project)**
+- 🔭 I’m currently working on **42 Cursus (MiniShell Project) and some REACTJS Project**
 
 - 🌱 I’m currently learning **C langage, React, NodeJS, MongoDB, ExpressJS**
 

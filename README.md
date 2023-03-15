@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vamoussa KANATE</h1>
-<h3 align="center">A passionate Programmer, Developper, Pentester from 42 Coding School</h3>
+<h3 align="center">An enthusiast of digital technologies, programming and computer security From 42 Coding School</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamoussa00225&label=Profile%20views&color=0e75b6&style=flat" alt="vamoussa00225" /> </p>
 

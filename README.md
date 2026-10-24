@@ -58,7 +58,7 @@ Vamoussa KANATE
 
 I'm a technology enthusiast with a technical background spanning **software development, web technologies and digital projects**.
 
-Today, I'm redirecting that technical foundation toward **IT infrastructure, technical support, networking and systems administration**, while progressively building the foundations required for a future specialization in **cybersecurity**.
+Today, I'm building on that technical foundation by developing practical skills in **IT Support, networking and systems administration**, while progressively building the foundations required for a future specialization in **cybersecurity**.
 
 I don't want this profile to be a collection of technologies I've merely read about.
 
@@ -148,43 +148,61 @@ Every new concept should eventually become something I can **configure, test, br
 
 ```text
                     ┌──────────────────────┐
-                    │      LEARN           │
+                    │        LEARN         │
                     └──────────┬───────────┘
                                │
                                ▼
                     ┌──────────────────────┐
-                    │       BUILD          │
+                    │        BUILD         │
                     └──────────┬───────────┘
                                │
                                ▼
                     ┌──────────────────────┐
-                    │      BREAK           │
+                    │        BREAK         │
                     └──────────┬───────────┘
                                │
                                ▼
                     ┌──────────────────────┐
-                    │   TROUBLESHOOT       │
+                    │     TROUBLESHOOT     │
                     └──────────┬───────────┘
                                │
                                ▼
                     ┌──────────────────────┐
-                    │     DOCUMENT         │
+                    │      DOCUMENT        │
                     └──────────┬───────────┘
                                │
                                ▼
                     ┌──────────────────────┐
-                    │      IMPROVE         │
+                    │       IMPROVE        │
                     └──────────────────────┘
 ```
 
 ### Current practical work
 
-| Area | Environment | Focus |
+| Area | Environment | Current Focus |
 |---|---|---|
-| 🌐 Networking | Cisco Packet Tracer | Infrastructure, services, routing, troubleshooting |
+| 🌐 Networking | Cisco Packet Tracer | Physical infrastructure, services, connectivity |
 | 🖥️ IT Support | Windows / Linux | Diagnostics & administration |
 | ⚙️ Systems | Virtual machines | Windows Server, AD, PowerShell |
 | 🔐 Security | Security labs | Fundamentals & practical scenarios |
+
+### 📂 Portfolio structure
+
+My projects are organized as independent repositories so that each lab can be documented, tested and reviewed separately.
+
+```text
+IT & Networking
+    └── Cisco Packet Tracer Labs
+
+Systems Administration
+    └── Windows / Linux Labs
+
+Cybersecurity
+    └── Security Labs
+
+Software Development
+    └── 42 Coding School Projects
+```
 
 ---
 
@@ -192,31 +210,18 @@ Every new concept should eventually become something I can **configure, test, br
 
 ### 🌐 Cisco Packet Tracer
 
-Building progressively more realistic network environments.
+Building progressively more realistic network environments through hands-on labs.
 
-```text
-                    INTERNET / WAN
-                          │
-                    ┌─────┴─────┐
-                    │   ROUTER  │
-                    └─────┬─────┘
-                          │
-              ┌───────────┴───────────┐
-              │                       │
-        ┌─────┴─────┐           ┌─────┴─────┐
-        │  SWITCH   │           │  SWITCH   │
-        └─────┬─────┘           └─────┬─────┘
-              │                       │
-       ┌──────┼──────┐         ┌──────┼──────┐
-       │      │      │         │      │      │
-      PC     PC   SERVER      PC     PC   SERVER
-```
+## 🧪 Completed Labs
 
-### Labs
+| # | Lab | Main Skills |
+|---|---|---|
+| 01 | 🌐 Network Fundamentals | IPv4, LAN, connectivity |
+| 02 | 🔌 Network Services | DHCP, DNS, HTTP |
+| 03 | 🏢 [Physical Network Infrastructure](https://github.com/vamoussa00225/cisco-packet-tracer-physical-network-lab) | Physical workspace, structured cabling, patch panel, Ethernet, connectivity |
 
-- `01` — IPv4 & LAN fundamentals
-- `02` — DHCP / DNS / HTTP
-- `03` — Physical workspace & structured cabling
+## 🚧 Upcoming Labs
+
 - `04` — Switching
 - `05` — VLAN
 - `06` — Routing
@@ -247,7 +252,7 @@ Windows Server
      └── PowerShell
              │
              ▼
-        Windows Clients
+       Windows Clients
 ```
 
 Practical scenarios will include:
@@ -336,7 +341,7 @@ These projects helped me develop strong foundations in:
 ```text
                     ┌───────────────────┐
                     │  SOFTWARE DEV     │
-                    │  WEB / 42        │
+                    │  WEB / 42         │
                     └─────────┬─────────┘
                               │
                               ▼
@@ -354,7 +359,7 @@ These projects helped me develop strong foundations in:
                               ▼
                     ┌───────────────────┐
                     │  WINDOWS SERVER   │
-                    │   ACTIVE DIRECTORY│
+                    │ ACTIVE DIRECTORY  │
                     └─────────┬─────────┘
                               │
                               ▼
@@ -365,7 +370,7 @@ These projects helped me develop strong foundations in:
                               │
                               ▼
                     ┌───────────────────┐
-                    │   IT SUPPORT      │
+                    │    IT SUPPORT     │
                     │  TROUBLESHOOTING  │
                     └─────────┬─────────┘
                               │
@@ -381,13 +386,24 @@ These projects helped me develop strong foundations in:
 
 ### 🧰 What I'm building here
 
-| Repository type | Purpose |
-|---|---|
-| 🌐 Networking Labs | Demonstrate network configuration & troubleshooting |
-| 🖥️ IT Support Labs | Demonstrate practical support scenarios |
-| ⚙️ System Labs | Demonstrate administration skills |
-| 🔐 Security Labs | Build cybersecurity foundations |
-| 💻 Development Projects | Preserve and demonstrate my software background |
+My GitHub portfolio is organized around four technical areas:
+
+| Area | Focus | Projects |
+|---|---|---|
+| 🌐 **IT Support & Networking** | Network configuration, infrastructure & troubleshooting | [Cisco Packet Tracer Labs](https://github.com/vamoussa00225?tab=repositories) |
+| ⚙️ **Systems Administration** | Windows, Linux, servers & administration | Coming progressively |
+| 🔐 **Cybersecurity** | Security fundamentals & practical labs | Coming progressively |
+| 💻 **Software Development** | Programming & software engineering foundations | [42 Coding School Projects](https://github.com/vamoussa00225?tab=repositories) |
+
+### 🔬 Current portfolio
+
+**🌐 Cisco Packet Tracer**
+
+- [Physical Network Infrastructure Lab](https://github.com/vamoussa00225/cisco-packet-tracer-physical-network-lab)
+
+More networking and infrastructure labs will be added progressively.
+
+---
 
 Every project aims to answer one question:
 

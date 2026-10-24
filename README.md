@@ -1,32 +1,247 @@
 <h1 align="center">Hi 👋, I'm Vamoussa KANATE</h1>
-<h3 align="center">An enthusiast of digital technologies, programming and computer security From 42 Coding School</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vamoussa00225&label=Profile%20views&color=0e75b6&style=flat" alt="vamoussa00225" /> </p>
+<h3 align="center">
+IT Support • Networking • Systems • Cybersecurity
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamoussa00225" alt="vamoussa00225" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vamoussa225" target="blank"><img src="https://img.shields.io/twitter/follow/vamoussa225?logo=twitter&style=for-the-badge" alt="vamoussa225" /></a> </p>
-
-- 🔭 I’m currently working on **Flutter App Project**
-
-- 🌱 I’m currently learning **Mobile Dev, Project Management and Marketing**
-
-- 💬 Ask me about **C, HTML, CSS, Javascript, React, Dart, Sécurity**
-
-- 📫 How to reach me **vamoussakanate43@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vamoussa225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vamoussa225" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vamoussa-kanate-801641187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vamoussa-kanate-801641187" height="30" width="40" /></a>
-<a href="https://discord.gg/829092047503884348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="829092047503884348" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/vamoussa00225">
+    <img src="https://komarev.com/ghpvc/?username=vamoussa00225&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>Building practical skills through hands-on labs, real-world scenarios and continuous learning.</strong>
+</p>
 
-<p><img align="left" background-color="red" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamoussa00225&show_icons=true&locale=en&layout=compact" alt="vamoussa00225" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamoussa00225&show_icons=true&locale=en" alt="vamoussa00225" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamoussa00225&" alt="vamoussa00225" /></p>
+I'm a technology enthusiast with a technical background built through **software development, web technologies and the 42 Coding School ecosystem**.
+
+Today, I'm sharpening my skills in **IT Support, networking and systems administration**, with a strong focus on hands-on practice.
+
+My current objective is to build the technical foundation required to work as an **IT Support / Helpdesk / IT Technician**, while progressively developing my expertise toward **network administration and cybersecurity**.
+
+I believe in learning by doing:
+
+> **Learn → Build → Troubleshoot → Document → Improve**
+
+That's why I'm progressively building a portfolio of practical labs covering networking, operating systems, administration, troubleshooting and security.
+
+---
+
+## 🎯 Current Focus
+
+```text
+IT Support
+   │
+   ├── 🖥️ Windows & Linux
+   ├── 🌐 Networking & TCP/IP
+   ├── 🔧 Troubleshooting
+   ├── 🛠️ System Administration
+   ├── 🔐 IT Security Fundamentals
+   │
+   └── 🚀 Cybersecurity
+          └── Future specialization
+```
+
+### Currently working on
+
+- 🖥️ **IT Support & troubleshooting**
+- 🌐 **Networking fundamentals**
+- 🔌 **Cisco Packet Tracer labs**
+- 🧪 **Practical infrastructure simulations**
+- 🪟 **Windows administration**
+- 🐧 **Linux fundamentals**
+- 🔐 **Cybersecurity foundations**
+- 📚 **Google IT Support Professional Certificate**
+- 🧰 Building a portfolio of documented technical labs
+
+---
+
+## 🧪 Hands-on Labs
+
+I'm building a practical portfolio to demonstrate what I can actually **configure, test and troubleshoot** rather than only listing technologies I've studied.
+
+### 🌐 Networking
+
+- IPv4 addressing
+- DHCP
+- DNS
+- HTTP
+- Switching
+- Routing
+- VLANs
+- Network troubleshooting
+- Structured cabling
+- Physical network infrastructure
+- Client/server communication
+- Wireless networking
+
+**Environment:** Cisco Packet Tracer
+
+### 🖥️ Systems & IT Support
+
+- Windows troubleshooting
+- Linux fundamentals
+- System configuration
+- User and access management
+- Network diagnostics
+- Remote support concepts
+- Windows Server
+- Active Directory
+- PowerShell
+
+### 🔐 Security
+
+Progressively developing skills in:
+
+- Network security fundamentals
+- System hardening
+- Access control
+- Authentication
+- Security troubleshooting
+- Cybersecurity labs and practical scenarios
+
+---
+
+## 🧠 Technical Background
+
+Before focusing more heavily on IT Support and infrastructure, I developed a broad technical foundation through software development and web technologies.
+
+### Software Development
+
+- C
+- JavaScript
+- Python
+- Dart
+- React
+- Flutter
+- Node.js
+- Bash
+
+### Web & Digital
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Sass
+- WordPress
+- Webmaster
+- Digital technologies
+
+### Tools & Workflow
+
+- Git / GitHub
+- Linux
+- Figma
+- Photoshop
+- VS Code
+- Cisco Packet Tracer
+
+---
+
+## 🏗️ Selected Technical Projects
+
+### 🌐 Networking Labs
+
+Practical networking projects built with **Cisco Packet Tracer**, covering network architecture, addressing, services, physical infrastructure and troubleshooting.
+
+> **Goal:** progressively move from basic network configuration to realistic enterprise scenarios.
+
+### 🖥️ IT Support & System Administration Labs
+
+Hands-on environments focused on Windows, Linux, system administration, user management, troubleshooting and infrastructure support.
+
+> **Goal:** reproduce the types of technical situations encountered by IT Support technicians.
+
+### 💻 42 Coding School Projects
+
+My previous technical foundation includes projects developed during my journey through **42 Coding School**, including:
+
+- [Libft42](https://github.com/vamoussa00225/Libft42)
+- [ft_printf](https://github.com/vamoussa00225/FT_PRINTF)
+- [get_next_line](https://github.com/vamoussa00225/GET_NEXT_LINE)
+- [Minitalk](https://github.com/vamoussa00225/Minitalk)
+- [Fractol](https://github.com/vamoussa00225/Fractol)
+
+These projects strengthened my foundations in **C programming, memory management, algorithms, Unix concepts, processes and problem solving**.
+
+---
+
+## 📚 Current Learning Path
+
+```text
+Google IT Support
+        ↓
+Networking Fundamentals
+        ↓
+Cisco Packet Tracer Labs
+        ↓
+Windows Server
+        ↓
+Active Directory
+        ↓
+PowerShell
+        ↓
+IT Support Troubleshooting
+        ↓
+Cybersecurity Fundamentals
+        ↓
+Network & Security Administration
+```
+
+My approach is deliberately practical: every new concept should progressively become a **lab, project, troubleshooting scenario or documented technical experiment**.
+
+---
+
+## 📈 What You'll Find Here
+
+This profile is evolving alongside my technical journey.
+
+Expect to find:
+
+- 🧪 Practical IT labs
+- 🌐 Networking projects
+- 🖥️ System administration experiments
+- 🔧 Troubleshooting scenarios
+- 💻 Software development projects
+- 🔐 Security exercises
+- 📚 Learning notes and documentation
+- 📊 Technical progress over time
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vamoussa-kanate-801641187/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/vamoussa225" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+📫 **Email:** vamoussakanate43@gmail.com
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vamoussa00225&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamoussa00225&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">
+  🚀 Learn. Build. Troubleshoot. Secure. Repeat.
+</h3>

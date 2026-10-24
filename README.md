@@ -1,247 +1,432 @@
-<h1 align="center">Hi 👋, I'm Vamoussa KANATE</h1>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                         VAMOUSSA KANATE                             ║
+║             IT SUPPORT • NETWORKING • SYSTEMS • SECURITY            ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 
-<h3 align="center">
-IT Support • Networking • Systems • Cybersecurity
-</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/vamoussa00225">
-    <img src="https://komarev.com/ghpvc/?username=vamoussa00225&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+# `VAMOUSSA KANATE`
 
-<p align="center">
-  <strong>Building practical skills through hands-on labs, real-world scenarios and continuous learning.</strong>
-</p>
+### 🖥️ IT Support · 🌐 Networking · ⚙️ Systems · 🔐 Cybersecurity
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+%7C+Breaking+%7C+Troubleshooting+%7C+Securing;IT+Support+%7C+Networking+%7C+System+Administration;From+software+development+to+infrastructure+%26+security;Learning+by+building+real+technical+labs" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/vamoussa-kanate-801641187/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/vamoussa00225">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:vamoussakanate43@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=vamoussa00225&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" alt="Profile views"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a technology enthusiast with a technical background built through **software development, web technologies and the 42 Coding School ecosystem**.
-
-Today, I'm sharpening my skills in **IT Support, networking and systems administration**, with a strong focus on hands-on practice.
-
-My current objective is to build the technical foundation required to work as an **IT Support / Helpdesk / IT Technician**, while progressively developing my expertise toward **network administration and cybersecurity**.
-
-I believe in learning by doing:
-
-> **Learn → Build → Troubleshoot → Document → Improve**
-
-That's why I'm progressively building a portfolio of practical labs covering networking, operating systems, administration, troubleshooting and security.
-
----
-
-## 🎯 Current Focus
+# `> whoami`
 
 ```text
-IT Support
-   │
-   ├── 🖥️ Windows & Linux
-   ├── 🌐 Networking & TCP/IP
-   ├── 🔧 Troubleshooting
-   ├── 🛠️ System Administration
-   ├── 🔐 IT Security Fundamentals
-   │
-   └── 🚀 Cybersecurity
-          └── Future specialization
+Vamoussa KANATE
+├── Technical background
+│   ├── Software Development
+│   ├── Web Technologies
+│   └── 42 Coding School
+│
+├── Current direction
+│   ├── IT Support
+│   ├── Networking
+│   ├── Systems Administration
+│   └── Cybersecurity
+│
+└── Philosophy
+    └── Learn → Build → Troubleshoot → Document → Improve
 ```
 
-### Currently working on
+I'm a technology enthusiast with a technical background spanning **software development, web technologies and digital projects**.
 
-- 🖥️ **IT Support & troubleshooting**
-- 🌐 **Networking fundamentals**
-- 🔌 **Cisco Packet Tracer labs**
-- 🧪 **Practical infrastructure simulations**
-- 🪟 **Windows administration**
-- 🐧 **Linux fundamentals**
-- 🔐 **Cybersecurity foundations**
-- 📚 **Google IT Support Professional Certificate**
-- 🧰 Building a portfolio of documented technical labs
+Today, I'm redirecting that technical foundation toward **IT infrastructure, technical support, networking and systems administration**, while progressively building the foundations required for a future specialization in **cybersecurity**.
+
+I don't want this profile to be a collection of technologies I've merely read about.
+
+**This GitHub is becoming my technical laboratory.**
 
 ---
 
-## 🧪 Hands-on Labs
+# `> current_mission`
 
-I'm building a practical portfolio to demonstrate what I can actually **configure, test and troubleshoot** rather than only listing technologies I've studied.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Networking
+### 🖥️ IT SUPPORT
 
-- IPv4 addressing
-- DHCP
-- DNS
-- HTTP
-- Switching
-- Routing
-- VLANs
-- Network troubleshooting
-- Structured cabling
-- Physical network infrastructure
-- Client/server communication
-- Wireless networking
+```text
+Windows
+Linux
+Troubleshooting
+User Support
+System Diagnostics
+Networking
+Remote Support
+```
 
-**Environment:** Cisco Packet Tracer
+</td>
 
-### 🖥️ Systems & IT Support
+<td width="50%" valign="top">
 
-- Windows troubleshooting
-- Linux fundamentals
-- System configuration
-- User and access management
-- Network diagnostics
-- Remote support concepts
-- Windows Server
+### 🌐 NETWORKING
+
+```text
+TCP/IP
+IPv4
+DHCP
+DNS
+HTTP
+Switching
+Routing
+VLAN
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ SYSTEMS
+
+```text
+Windows Server
+Active Directory
+PowerShell
+User Management
+Permissions
+GPO
+Virtualization
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 SECURITY
+
+```text
+Security Fundamentals
+Access Control
+Network Security
+System Hardening
+Troubleshooting
+Security Labs
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# `> the_lab`
+
+### 🧪 Learning by doing
+
+Every new concept should eventually become something I can **configure, test, break, troubleshoot and explain**.
+
+```text
+                    ┌──────────────────────┐
+                    │      LEARN           │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │       BUILD          │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │      BREAK           │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   TROUBLESHOOT       │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │     DOCUMENT         │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │      IMPROVE         │
+                    └──────────────────────┘
+```
+
+### Current practical work
+
+| Area | Environment | Focus |
+|---|---|---|
+| 🌐 Networking | Cisco Packet Tracer | Infrastructure, services, routing, troubleshooting |
+| 🖥️ IT Support | Windows / Linux | Diagnostics & administration |
+| ⚙️ Systems | Virtual machines | Windows Server, AD, PowerShell |
+| 🔐 Security | Security labs | Fundamentals & practical scenarios |
+
+---
+
+# `> networking_lab`
+
+### 🌐 Cisco Packet Tracer
+
+Building progressively more realistic network environments.
+
+```text
+                    INTERNET / WAN
+                          │
+                    ┌─────┴─────┐
+                    │   ROUTER  │
+                    └─────┬─────┘
+                          │
+              ┌───────────┴───────────┐
+              │                       │
+        ┌─────┴─────┐           ┌─────┴─────┐
+        │  SWITCH   │           │  SWITCH   │
+        └─────┬─────┘           └─────┬─────┘
+              │                       │
+       ┌──────┼──────┐         ┌──────┼──────┐
+       │      │      │         │      │      │
+      PC     PC   SERVER      PC     PC   SERVER
+```
+
+### Labs
+
+- `01` — IPv4 & LAN fundamentals
+- `02` — DHCP / DNS / HTTP
+- `03` — Physical workspace & structured cabling
+- `04` — Switching
+- `05` — VLAN
+- `06` — Routing
+- `07` — Inter-VLAN routing
+- `08` — ACL
+- `09` — Network troubleshooting
+- `10` — Enterprise network simulation
+
+> **Objective:** move progressively from basic connectivity to realistic infrastructure and troubleshooting scenarios.
+
+---
+
+# `> systems_lab`
+
+### 🖥️ Windows / Linux / Administration
+
+The next layer of the lab focuses on infrastructure rather than only network connectivity.
+
+```text
+Windows Server
+     │
+     ├── Active Directory
+     ├── DNS
+     ├── DHCP
+     ├── Users & Groups
+     ├── Permissions
+     ├── GPO
+     └── PowerShell
+             │
+             ▼
+        Windows Clients
+```
+
+Practical scenarios will include:
+
+- User account management
+- Password and access issues
+- Shared folders
+- NTFS permissions
+- Group management
 - Active Directory
-- PowerShell
+- Group Policy
+- Network configuration
+- Windows troubleshooting
+- PowerShell administration
 
-### 🔐 Security
+---
 
-Progressively developing skills in:
+# `> security_lab`
 
-- Network security fundamentals
-- System hardening
+### 🔐 From IT Support to Cybersecurity
+
+Cybersecurity is not the starting point of my journey.
+
+It is the **next layer** built on top of strong fundamentals in:
+
+`Systems → Networks → Administration → Troubleshooting → Security`
+
+My security learning will progressively cover:
+
+- Authentication & authorization
 - Access control
-- Authentication
-- Security troubleshooting
-- Cybersecurity labs and practical scenarios
+- Network security
+- System hardening
+- Vulnerability fundamentals
+- Security monitoring
+- Practical security labs
 
 ---
 
-## 🧠 Technical Background
+# `> my_stack`
 
-Before focusing more heavily on IT Support and infrastructure, I developed a broad technical foundation through software development and web technologies.
+<div align="center">
 
-### Software Development
+### Systems & Infrastructure
 
-- C
-- JavaScript
-- Python
-- Dart
-- React
-- Flutter
-- Node.js
-- Bash
+<img src="https://skillicons.dev/icons?i=windows,linux,bash,powershell" />
 
-### Web & Digital
+### Networking & Security
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Sass
-- WordPress
-- Webmaster
-- Digital technologies
+<img src="https://skillicons.dev/icons?i=cisco" />
 
-### Tools & Workflow
+### Development Background
 
-- Git / GitHub
-- Linux
-- Figma
-- Photoshop
-- VS Code
-- Cisco Packet Tracer
+<img src="https://skillicons.dev/icons?i=c,python,javascript,react,nodejs,dart,flutter" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
+
+</div>
 
 ---
 
-## 🏗️ Selected Technical Projects
+# `> previous_stack`
 
-### 🌐 Networking Labs
+Before moving deeper into infrastructure and IT Support, I built a solid technical foundation through software development and web technologies.
 
-Practical networking projects built with **Cisco Packet Tracer**, covering network architecture, addressing, services, physical infrastructure and troubleshooting.
+### `42 Coding School`
 
-> **Goal:** progressively move from basic network configuration to realistic enterprise scenarios.
+Some of my previous projects include:
 
-### 🖥️ IT Support & System Administration Labs
-
-Hands-on environments focused on Windows, Linux, system administration, user management, troubleshooting and infrastructure support.
-
-> **Goal:** reproduce the types of technical situations encountered by IT Support technicians.
-
-### 💻 42 Coding School Projects
-
-My previous technical foundation includes projects developed during my journey through **42 Coding School**, including:
-
-- [Libft42](https://github.com/vamoussa00225/Libft42)
+- [Libft](https://github.com/vamoussa00225/Libft42)
 - [ft_printf](https://github.com/vamoussa00225/FT_PRINTF)
 - [get_next_line](https://github.com/vamoussa00225/GET_NEXT_LINE)
 - [Minitalk](https://github.com/vamoussa00225/Minitalk)
 - [Fractol](https://github.com/vamoussa00225/Fractol)
 
-These projects strengthened my foundations in **C programming, memory management, algorithms, Unix concepts, processes and problem solving**.
+These projects helped me develop strong foundations in:
+
+`C` · `Unix` · `Memory Management` · `Processes` · `Algorithms` · `Problem Solving`
 
 ---
 
-## 📚 Current Learning Path
+# `> learning_path`
 
 ```text
-Google IT Support
-        ↓
-Networking Fundamentals
-        ↓
-Cisco Packet Tracer Labs
-        ↓
-Windows Server
-        ↓
-Active Directory
-        ↓
-PowerShell
-        ↓
-IT Support Troubleshooting
-        ↓
-Cybersecurity Fundamentals
-        ↓
-Network & Security Administration
+                    ┌───────────────────┐
+                    │  SOFTWARE DEV     │
+                    │  WEB / 42        │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │   GOOGLE IT       │
+                    │     SUPPORT       │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │    NETWORKING     │
+                    │  CISCO / LABS     │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │  WINDOWS SERVER   │
+                    │   ACTIVE DIRECTORY│
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │    POWERSHELL     │
+                    │  ADMINISTRATION   │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │   IT SUPPORT      │
+                    │  TROUBLESHOOTING  │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │  CYBERSECURITY    │
+                    └───────────────────┘
 ```
 
-My approach is deliberately practical: every new concept should progressively become a **lab, project, troubleshooting scenario or documented technical experiment**.
+---
+
+# `> portfolio`
+
+### 🧰 What I'm building here
+
+| Repository type | Purpose |
+|---|---|
+| 🌐 Networking Labs | Demonstrate network configuration & troubleshooting |
+| 🖥️ IT Support Labs | Demonstrate practical support scenarios |
+| ⚙️ System Labs | Demonstrate administration skills |
+| 🔐 Security Labs | Build cybersecurity foundations |
+| 💻 Development Projects | Preserve and demonstrate my software background |
+
+Every project aims to answer one question:
+
+> **“Can I actually do it?”**
 
 ---
 
-## 📈 What You'll Find Here
+# `> github_stats`
 
-This profile is evolving alongside my technical journey.
+<div align="center">
 
-Expect to find:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vamoussa00225&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-- 🧪 Practical IT labs
-- 🌐 Networking projects
-- 🖥️ System administration experiments
-- 🔧 Troubleshooting scenarios
-- 💻 Software development projects
-- 🔐 Security exercises
-- 📚 Learning notes and documentation
-- 📊 Technical progress over time
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamoussa00225&layout=compact&hide_border=true&theme=transparent" />
 
----
+<br>
 
-## 🤝 Connect With Me
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vamoussa00225&hide_border=true&theme=transparent" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vamoussa-kanate-801641187/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/vamoussa225" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
-📫 **Email:** vamoussakanate43@gmail.com
+</div>
 
 ---
 
-## 📊 GitHub Activity
+# `> connect`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamoussa00225&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamoussa00225&hide_border=true" alt="GitHub Streak" />
-</p>
+### Let's connect, learn and build.
 
----
+<a href="https://www.linkedin.com/in/vamoussa-kanate-801641187/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<h3 align="center">
-  🚀 Learn. Build. Troubleshoot. Secure. Repeat.
-</h3>
+<a href="mailto:vamoussakanate43@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+`Learn.` &nbsp; `Build.` &nbsp; `Troubleshoot.` &nbsp; `Secure.`
+
+</div>
